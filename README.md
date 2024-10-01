@@ -4,30 +4,29 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > Enter a number
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > no it does not because the code was written wrong
 
 ## Run
 Run the program. 
 
 1. What does the program output. Refer to what numbers you entered and what you got back.
-    > your answer
+    > I wrote 6 and 5 it it came back with 65
 
 
 ## Investigate
 1. Add a single-line comment above each major chunk of code to explain what is happening.
 2. Read about the concept of [string concatenation](https://www.w3schools.com/python/gloss_python_string_concatenation.asp). Explain in your own words below what it is and how it relates to this program.
-    > your answer
-
+    > It relate because it talks about how to use intergers
 3. Read about the [`int()`](https://www.w3schools.com/python/ref_func_int.asp) and [`float()`](https://www.w3schools.com/python/ref_func_float.asp) functions in Python. What do they do? How can they help this program?
-    > your answer
+    > By outputing the right answer
 
 ## Modify
 1. Change the program using what you learned so that it adds two numbers you enter.
 2. Try entered a non-numeric value. What happens? What kind of error is this (refer to our error types).
-    > your answer
+    > ValueError
 
 ## Make
 1. Add more lines of code to perform other math operations with the numbers you entered and print out the results. Try the following operators. 
@@ -44,10 +43,10 @@ Run the program.
 | Operator | Meaning |
 |  :---:    |   :---:   |  
 |   `+`    | Addition |
-|   `-`    | your answer |
-|   `*`    | your answer |
-|   `/`    | your answer |
-|   `//`    | your answer |
-|   `**`    | your answer |
-|   `%`    | your answer |
+|   `-`    | Subtraction |
+|   `*`    | Multipcation |
+|   `/`    | Divistion |
+|   `//`    | Outputs the number of time the second number can divid the first number |
+|   `**`    | Changes the second number to a power |
+|   `%`    | It's the remander from the second number dividing the first |
 
